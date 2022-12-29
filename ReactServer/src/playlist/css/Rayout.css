@@ -1,0 +1,10 @@
+.rayout {
+  padding: 20px;
+  border-style: 2px solid black;
+  background-color: rgba(204, 255, 255);
+  border: 1px solid black;
+}
+
+.table {
+  margin: 0, 50px;
+}
